@@ -1,8 +1,6 @@
 tensorflow-gpu==1.4.0
 keras
-pandas
 scikit-learn
-scikit-image
 jupyter
 albumentations==0.1.2
 appdirs==1.4.3
